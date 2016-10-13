@@ -1,7 +1,6 @@
 # readme-test
 
 test
-.. raw:: html
-   <br/>
+<br/>
 
 test
