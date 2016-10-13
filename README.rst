@@ -1,6 +1,7 @@
 # readme-test
 
 test
-<br/>
+
+.. include:: ../CHANGES.txt
 
 test
