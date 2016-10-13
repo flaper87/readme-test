@@ -2,6 +2,6 @@
 
 test
 
-.. include:: ../CHANGES.txt
+.. include:: CHANGES.txt
 
 test
