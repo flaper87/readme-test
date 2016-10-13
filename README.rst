@@ -1,6 +1,5 @@
 test
 
 .. include:: CHANGES.txt
-   literal: true
 
-test
+test 2
